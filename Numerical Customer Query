@@ -1,0 +1,14 @@
+ --descriptive statistics for numerical columns for customer table
+SELECT MIN(active) AS min_active,
+MAX(active) AS max_active,
+AVG(active) AS avg_active,
+MIN(address_id) AS min_address,
+MAX(address_id) AS max_address,
+AVG(address_id) AS avg_address,
+MIN(customer_id) AS min_customer,
+MAX(customer_id) AS max_customer,
+AVG(customer_id) AS avg_customer,
+MIN(store_id) AS min_store,
+MAX(store_id) AS max_store,
+AVG(store_id) AS avg_store
+FROM customer
