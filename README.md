@@ -21,6 +21,6 @@ the main questions:
 
 The sample dataset can be found [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
-##
+## Visualization
 
 Here is a visual presentation of my findings via [Tableau](https://public.tableau.com/app/profile/caden.sweet/viz/RockbusterVisualizations-SQLFinalProject/Rockbuster)
