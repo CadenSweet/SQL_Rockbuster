@@ -19,7 +19,7 @@ the main questions:
 
 ## Data
 
-The sample dataset can be found [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+The data set contains information about Rockbuster’s film inventory, customers, and payments, among other things.
 
 ## Visualization
 
