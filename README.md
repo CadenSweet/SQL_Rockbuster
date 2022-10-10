@@ -23,4 +23,4 @@ The data set contains information about Rockbuster’s film inventory, customers
 
 ## Visualization
 
-The annual report can be found [here.](https://docs.google.com/presentation/d/14PkslHphlXywOTyvF2kSubY9mREOKzZD/edit?usp=sharing&ouid=104212770889216441424&rtpof=true&sd=true)
+The annual review can be found [here.](https://docs.google.com/presentation/d/14PkslHphlXywOTyvF2kSubY9mREOKzZD/edit?usp=sharing&ouid=104212770889216441424&rtpof=true&sd=true)
